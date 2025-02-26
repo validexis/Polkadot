@@ -5,7 +5,7 @@
 ---
 
 <div>
-<h1 align="left" style="display: flex;">Agoric Node Setup for Agoric Mainnet</h1>
+<h1 align="left" style="display: flex;">Polkadot Node Setup for Polkadot Mainnet</h1>
 </div>
 
 ## 🛠️ Install Main Validator
