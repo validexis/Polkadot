@@ -14,3 +14,12 @@ To install the main validator node, execute the following command:
 ~~~bash
 source <(curl -s https://raw.githubusercontent.com/validexis/Polkadot/main/installmain.sh)
 ~~~
+
+---
+
+## 📋 Upgrade Main Validator
+To upgrade your validator node to the latest version, run:
+
+~~~bash
+source <(curl -s https://raw.githubusercontent.com/validexis/Polkadot/main/upgrademain.sh)
+~~~
