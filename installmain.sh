@@ -19,7 +19,7 @@ rustup target add wasm32-unknown-unknown --toolchain nightly-2024-01-21
 
 git clone https://github.com/paritytech/polkadot-sdk.git
 cd polkadot-sdk
-git checkout polkadot-v1.17.1
+git checkout polkadot-v1.17.2
 cargo build --release
 
 current_user=$(whoami)
