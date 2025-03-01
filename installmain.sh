@@ -41,7 +41,6 @@ ExecStart=$HOME/polkadot-sdk/target/release/polkadot \
   --prometheus-external \
   --prometheus-port=9615 \
   --unsafe-force-node-key-generation \
-  --public-addr=0.0.0.0:30333
 Restart=always
 RestartSec=10
 StandardOutput=journal
